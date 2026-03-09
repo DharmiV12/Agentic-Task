@@ -2,19 +2,11 @@
    "notes": [
       {
          "id": 1,
-         "note": "Meeting at 5 PM"
+         "note": "Learn JAVA"
       },
       {
          "id": 2,
          "note": "Meeting at 5 PM"
-      },
-      {
-         "id": 3,
-         "note": "Meeting at 5 PM"
-      },
-      {
-         "id": 4,
-         "note": "learn fastapi"
       }
    ]
 }
